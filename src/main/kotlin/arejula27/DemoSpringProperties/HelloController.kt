@@ -11,6 +11,6 @@ class HelloController {
     @GetMapping("/")
     fun index(): String? {
         val greeter = GreetingsProvider()
-        return "Spring dice ${greeter.greet}"
+        return "Spring dice ${greeter.Greet()}"
     }
 }
