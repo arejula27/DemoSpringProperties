@@ -1,4 +1,4 @@
-package arejula27.DemoSpringProperties
+package arejula27.demospringproperties
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
